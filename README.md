@@ -1,10 +1,8 @@
 ### Personal Website
 
-Link: coming soon.
+Added [link here](https://piotrek-personal-website.netlify.app/) hurray!
 
-My personal website about programming and my other hobbies like UI design, drawing and yoga.
-  
-I wish to document my current and previous endeavors.
+I wish to document my current and previous endeavors. I write about programming, design, drawing and other interesting stuff.
 
 I'll incrementally add new features, for now its html/css but I look forward to include framework components and more. Probably with Vue.js. Stay tuned :)  
 
