@@ -1,6 +1,6 @@
 ### Personal Website
 
-Added [link here](https://piotrek-personal-website.netlify.app/) hurray!
+Added [link here](https://piotr-szymaniec.dev/) hurray!
 
 I wish to document my current and previous endeavors. I write about programming, design, drawing and other interesting stuff.
 
