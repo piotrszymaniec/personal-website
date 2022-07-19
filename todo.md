@@ -1,6 +1,6 @@
 ## plan
 
-1. add landing page
+1. add **landing** page
   - short welcome
   - code examples list of 3 
     - sourcecode propositions:
@@ -13,7 +13,7 @@
     - add link to source code, add deployed demo, or add demo on codesandbox, or add git clone command with cpy button, or auto copy on focus
   - blogposts, recent articles,
   - list of tags for added articles?
-2. add projects page:
+2. add **projects** page:
   - what was the purpose
   - what was my role
   - what ive learned
@@ -30,7 +30,10 @@ If you happen to be recruiter click <a href="#">here</a> and look at my code. Or
 <a href="#">resume <i>uploaded 18.07.2022</i>
   contact: <a href="">piotr.szymaniec@gmail.com</a> (change later to hello/hi/contact@piotr-szymaniec.dev) maybe input with copy on blur/focus?
  </pre>
-
+- fancy features, animated code -> c0de coD -> cod3 -> Code -> c0de -> cOde or Code -> #ode -> ##de -> ###e _> #### -> C### -> co## -> cod#
+- colors -> rainbow
+- other things emoicons draw, paint, yoga, kanji, games, dance, ring, talk, poem, cook, or just words randomly appearing
+  - maybe write component out of it
 AD2
 <pre>
 Here you may find bigger yet another code, but a bit bigger
