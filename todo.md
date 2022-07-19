@@ -1,6 +1,6 @@
 ## plan
 
-1. add **landing** page
+#### 1. add [**landing** page](#landing-page)
   - short welcome
   - code examples list of 3 
     - sourcecode propositions:
@@ -13,15 +13,16 @@
     - add link to source code, add deployed demo, or add demo on codesandbox, or add git clone command with cpy button, or auto copy on focus
   - blogposts, recent articles,
   - list of tags for added articles?
-2. add **projects** page:
+2. add [**projects** page](#projects)
   - what was the purpose
   - what was my role
   - what ive learned
   - what value i added
   - what technical problems i solved
 
+<a name="landing-page"></a>
 
-AD1.
+#### AD1.
 <pre>
 I'm Piotrek, i like code, work with shapes and colors, and many other <a href="">things</a>
 
@@ -34,7 +35,10 @@ If you happen to be recruiter click <a href="#">here</a> and look at my code. Or
 - colors -> rainbow
 - other things emoicons draw, paint, yoga, kanji, games, dance, ring, talk, poem, cook, or just words randomly appearing
   - maybe write component out of it
-AD2
+
+<a name="projects"></a>
+
+### AD2
 <pre>
 Here you may find bigger yet another code, but a bit bigger
 
@@ -50,3 +54,5 @@ In my experience, Piotrek / Peter is a very skilled developer who has contribute
 
 -Ben Jackman
 </p>
+
+
